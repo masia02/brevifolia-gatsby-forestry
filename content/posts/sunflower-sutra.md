@@ -1,42 +1,42 @@
 ---
-date: 2019-08-08T22:42:09Z
+date: 2019-08-09T07:42:09+09:00
 title: Sunflower Sutra
-author: Allen Ginsberg
+author: masia02.eth
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+私はティンカンバナナドックのほとりを歩いて、南太平洋の機関車の巨大な陰に腰を下ろして、ボックスハウスの丘に沈む夕日を探して泣きました。
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+ジャック・ケルアックは私の隣に、さびた錆びた鉄の棒である仲間に座っていました。私たちは、機械の木の節くれだった鋼の根に囲まれ、魂と同じ考えを、暗くて青く悲しい目で考えました。
 
 ![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+川の唯一の水は赤い空を映し出し、最終的なフリスコの頂上に太陽が沈み、その小川には魚がいなくて、山に隠者がいませんでした。賢く。
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+ひまわりを見ると、古代のおがくずの山の上に男のように乾いた灰色の空が灰色の空に映っていた、と彼は言った。
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+\-私は魅惑的に急いで行きました–それは私の最初のひまわりでした、ブレイクの思い出–私のビジョン–ハーレム
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+# 「灰色のヒマワリは日没に立ち向かい、目の中に古い機関車のスマットとスモッグと煙があり、ひび割れて薄暗いほこりっぽい」
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+イースタンリバーの地獄、ジョーズの脂っこいサンドイッチを挟む橋、死んだ乳母車、忘れられていないリトレッドされていない黒いトレッドレスタイヤ、川岸の詩、コンドームとポット、スチールナイフ、ステンレスは何もない、湿った泥とかみそりのようなアーティファクトだけ過去への通過
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+灰色のヒマワリは日没に立ち向かい、目の中に古い機関車の汚れとスモッグと煙があり、ひび割れて薄暗いほこりっぽいです–
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+ブラリースパイクのカローラがボロボロの王冠のように押し下げられて壊れ、種はその顔から落ち、まもなく晴れた空気の口になり、日光は乾燥したワイヤーのクモの巣のように毛むくじゃらの頭の上で消滅し、
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+葉は茎から腕のように突き出し、おがくずの根からの仕草、黒い小枝から落ちた石膏の破片、その耳に死んだハエ、
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+ひどいボロボロの古いもの、私のひまわりO私の魂、私はそのときあなたを愛していた！
 
 ![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
 
-The grime was no man’s grime but death and human locomotives,
+汚れは人間の汚れではなく、死と人間の機関車でした。
 
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
+ほこりのドレス、暗い色の鉄道の皮膚のベール、頬のスモッグ、黒い失敗のまぶた、すすけた手または陰茎、または人工的で汚れた産業よりモダンな現代のすべての文明があなたを発見している文明のすべてクレイジーゴールデンクラウン–
 
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
+そして、それらの死とほこりっぽい愛のない目と終わり、そして根が枯れて、砂とおがくずのホームパイル、ゴム製のドル札、機械の皮、泣く咳の車の内臓と内臓、空の孤独なスズ彼らのさびた舌はどういうわけか、何と言ってもいいですが、いくつかのコックシガーのスモークアッシュ、手押し車のカントと車の乳白色の乳房、椅子から消耗したロバとダイナモの括約筋–これらすべて
 
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
+あなたのミイラ化した根に絡まり、そして日没で私の目の前に立って、あなたの栄光をあなたの形に！
 
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+ひまわりの完璧な美しさ！完璧な素敵なひまわりの存在！新しいヒップムーンへの甘い自然の目、生気に満ちた目を覚まし、日没の影の日の出の黄金の月のそよ風をつかんで興奮しいます！
