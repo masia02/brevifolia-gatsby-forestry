@@ -1,24 +1,72 @@
 ---
-title: On the Geneology of Morals
-date: '2019-08-16T22:37:31.000Z'
-hero_image: ../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg
-author: Friedrich Nietzsche
+title: ポストApp Store/Google Play、モバイルアプリの次に来るもの Appfav
+date: 2019-08-27T07:37:31+09:00
+hero_image: "../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+author: masia02.eth
+
 ---
+現在モバイルアプリ配信市場は、App StoreとGoogle Playにほぼ独占されています。
 
-So all respect to the good spirits that may govern in these historians of morality! But it’s certainly a pity that they lack the historical spirit itself, that they’ve been left in the lurch by all the good spirits of history! Collectively they all think essentially unhistorically, in the traditional manner of philosophers. Of that there is no doubt. The incompetence of their genealogies of morals reveals itself at the very beginning, where the issue is to determine the origin of the idea and of the judgment “good.”
+アプリ開発者はAppleとGoogleの言いなりです。Apple, Googleともに配信されるコンテンツに対して審査を行っています。最低限詐欺的なアプリなどは配信しないようにしなければならないが、ギャンブル性のあるアプリに対してなど年々厳しくなっています。
 
-“People,” so they proclaim, “originally praised unegoistic actions and called them good from the perspective of those for whom they were done, that is, those for whom such actions were useful. Later people forgot how this praise began, and because unegoistic actions had, according to custom, always been praised as good, people then simply felt them as good, as if they were something inherently good.”
+また、支払手段を握られコストがかかります。  
+料金の支払いはアプリの購入とアプリ内課金のみである必要があり、それ以外の支払い経路があってはいけません。なお、アプリ内課金のうち30%がAppleの収益になります。
 
-# “What, from an etymological perspective, do the meanings of “Good” as manifested in different languages really mean?”
+それに対して、ブラウザーで利用できるゲームやアプリはApp StoreやGoogle Playを迂回し、PCやスマホへの配信をするため縛りがありません。
 
-We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have “usefulness,” “forgetting,” “habit,” and finally “error,” all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved?
+# ダウンロード＆インストール不要なブラウザで利用できるアプリ
 
-![](/content/images/ruslan-bardash-g83y6do219w-unsplash.jpg)
+下記のような技術でWebアプリを利用することで、まだ比較的若いテクノロジーもあり普及や対応にしばらくかかるかもしれませんが、ネイティブアプリを必要としない未来は近いと思います。
 
-Now, first of all, it’s obvious to me that from this theory the origin of the idea “good” has been sought for and established in the wrong place: the judgment “good” did not move here from those to whom “goodness” was shown! It is much more that case that the “good people” themselves, that is, the noble, powerful, higher-ranking and higher-thinking people felt and set themselves and their actions up as good, that is to say, of the first rank, in contrast to everything low, low-minded, common, and vulgar. From this pathos of distance they first arrogated to themselves the right to create values, to stamp out the names for values. What did they care about usefulness!
+#### プログレッシブウェブアプリ（PWA）
 
-# “Although the two words “bad” and “evil” both seem opposite to the same idea of “good,” how different they are.”
+PWAは、デスクトップとモバイルの両方でインストール可能なアプリと同等の体験を提供し、ウェブ上で直接構築・配信される高速で信頼性の高いウェブアプリです。何より重要なのは、それらがどのブラウザでも動作するウェブアプリであることです。
 
-In relation to such a hot pouring out of the highest rank-ordering, rank-setting judgments of value, the point of view which considers utility is as foreign and inappropriate as possible. Here the feeling has reached the opposite of that low level of warmth which is a condition for that calculating shrewdness, that calculation by utility—and not just for a moment, not for an exceptional hour, but permanently. The pathos of nobility and distance, as mentioned, the lasting and domineering feeling, something total and complete, of a higher ruling nature in relation to a lower nature, to an “beneath”—that is the origin of the opposition between “god” and “bad.” (The right of the master to give names extends so far that we could permit ourselves to grasp the origin of language itself as an expression of the power of the rulers: they say “that is such and such,” seal every object and event with a sound and, in so doing, take possession of it.)
+#### 5G
 
-Given this origin, the word “good” was not in any way necessarily tied up with “unegoistic” actions, as the superstitions of those genealogists of morality tell us. Rather, that occurs for the first time with the collapse of aristocratic value judgments, when this entire contrast between “egoistic” and “unegoistic” pressed itself ever more strongly into human awareness—it is, to use my own words, the instinct of the herd which, through this contrast, finally gets its word (and its words). And even so, it took a long time until this instinct in the masses became ruler, with the result that moral evaluation got downright hung up and bogged down on this opposition (as is the case, for example, in modern Europe: today the prejudice that takes “moralistic,” “unegoistic,” “_désintéressé_” _\[disinterested\]_ as equally valuable ideas already governs, with the force of a “fixed idea” and a disease of the brain).
+5Gが利用できるようになると、高速大容量・低遅延・多数端末接続ができるようになります。ウェブアプリがより使いやすい環境になります。5Gに向けてGoogleのクラウドゲームサービス「Stadia」などいろんなサービスが始まるでしょう。
+
+[https://note.com/masia02/n/n24dfb90085e7](https://note.com/masia02/n/n24dfb90085e7 "ブラウザゲームの進化がスゴイ！")
+
+[https://appfav.net/webapps/item.php?appId=257](https://appfav.net/webapps/item.php?appId=257 " Paperspace - 仮想デスクトップ")
+
+#### WebAssemblyによる高速化・バイナリ化
+
+ブラウザからアセンブリ（機械語）を実行できるようにする技術  
+高速化手段、あるいはJavaScriptの処理系にできないことをするといった目的で提案されました。バイナリーデータとして配信されるので、丸ごとコピーされて送金先だけ変えられて他の誰かに盗用される心配は減ります。
+
+#### WebVR/AR・XR
+
+こちらも登場して数年ですが、徐々に浸透しているブラウザを使ってアクセスするAR/VRの規格です。さらにVR・AR・MRにも対応する規格がXRです。
+
+[https://appfav.net/webapps/item.php?appId=248](https://appfav.net/webapps/item.php?appId=248 "8th Wall | Augmented Reality")
+
+#### DApps（自律分散型アプリケーション）
+
+ブロックチェーンを利用することで非中央集権なアプリを実現する技術。主にMetamaskなどをブラウザに機能拡張するか、DAppsブラウザアプリで利用やブロックチェーンゲームのアプリにウォレット機能が付いたものもあるが、Portisなどのように通常のブラウザでWebサービスにログインして使うように利用できるコントラクトウォレットの仕組みを使うことをオススメします。
+
+[https://alis.to/masia02/articles/K8DQmM6N87Z7](https://alis.to/masia02/articles/K8DQmM6N87Z7 "Ethereum DAppsはコントラクトウォレットでログインしよう！")
+
+### アプリが見つけにくい問題の対策
+
+Webアプリ、ブラウザで利用するブロックチェーンアプリなどをユーザーに見つけてもらうため、[Appfav.net](https://appfav.net/)を作成しました。
+
+無料会員登録がSNS認証で簡単にできます。そしてログイン後、マイアプリページを利用できます。アプリ紹介ページで、よく利用するアプリの「マイアプリに追加」ボタンをクリックすることで、マイアプリページに追加できます。
+
+PC、タブレット、スマホ、VRヘッドセットなどブラウザが利用できるあらゆるデバイスでAppfavにアクセスすることで共有して利用可能です。**ホーム画面に追加**や**ブックマーク**してご利用ください。
+
+アプリ登録は、念の為最低限確認していますが、基本的にAppfavの主旨に基づいて申請いただければ掲載するようにしております。アプリストアは非中央集権化するべきと考えており、将来的にはDApps化したいと思っています。
+
+### おわりに
+
+今後、ブラウザだけ利用できるデバイスがあれば、あらゆるアプリを利用できるようになるでしょう。デバイス自体に保存するデータは少なくてすみます。バッテリーの小型化・大容量化もさらに進むでしょうし、ブラウザが起動する使いやすいメガネが早くできてほしい。
+
+また企業でブロックチェーンを利用したサービスが増えてきており、安価で安全に利用できるなら良いことですが、最終的にはみんなで管理するパプリックなサービスが残るでしょう。GAFAのサービスがDAppsに置き換わるさまを早く見たいと筆者は願ってAppfavを運用しています。
+
+Appfavは後々、非中央集権化したいと思っています。いっしょに作ってくれるブロックチェーンエンジニアの方がいましたらご連絡ください。
+
+[**Appfav Twitterをフォローする**](https://twitter.com/appfav_net)
+
+[**Appfav Line公式アカウントをフォローする**](https://lin.ee/ewel5Dk)
+
+[**Appfav discordをフォローする**](https://discord.gg/2N5Nzc)
