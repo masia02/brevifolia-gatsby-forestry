@@ -1,26 +1,92 @@
 ---
-date: 2019-08-13T22:40:32Z
-title: Ne Te Quaesiveris Extra
-author: Ralph Waldo Emerson
-hero_image: "/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+date: 2019-08-13T22:40:32.000+00:00
+title: お金や個人情報を守る！最低限やるべき簡単で安心できるパスワード管理
+author: masia02.eth
+hero_image: "/content/images/password-64047_1920.jpg"
 
 ---
-I read the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may. The sentiment they instill is of more value than any thought they may contain. To believe your own thought, to believe that what is true for you in your private heart is true for all men, — that is genius.
+パスワードを複数覚えるのは大変なので使い回していませんか？
 
-Speak your latent conviction, and it shall be the universal sense; for the inmost in due time becomes the outmost,—- and our first thought is rendered back to us by the trumpets of the Last Judgment. Familiar as the voice of the mind is to each, the highest merit we ascribe to Moses, Plato, and Milton is, that they set at naught books and traditions, and spoke not what men but what they thought. A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages.
+# 安全なパスワードとは
 
-# “A man should learn to detect and watch that gleam of light which flashes across his mind from within…”
+#### 同じパスワードを使い回さない
 
-Yet he dismisses without notice his thought, because it is his. In every work of genius we recognize our own rejected thoughts: they come back to us with a certain alienated majesty. Great works of art have no more affecting lesson for us than this. They teach us to abide by our spontaneous impression with good-humored inflexibility then most when the whole cry of voices is on the other side. Else, to-morrow a stranger will say with masterly good sense precisely what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.
+パスワードが１つ漏れるとリスト攻撃で使いまわしているサービスのアカウントも乗っ取られる場合がある。
 
-![](/content/images/anomaly-oRskqiH7FNc-unsplash.jpg)
+#### パスワードは長ければ長いほうが良い
 
-There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till. The power which resides in him is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried.
+9桁以上の英数、大文字、小文字、記号が混在推奨。短く簡単なパスワードはすぐに解析できてしまう。
 
-Not for nothing one face, one character, one fact, makes much impression on him, and another none. This sculpture in the memory is not without preestablished harmony. The eye was placed where one ray should fall, that it might testify of that particular ray. We but half express ourselves, and are ashamed of that divine idea which each of us represents.
+### これらを解決するにはパスワード管理ソフトを利用しよう！
 
-# “There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse…”
+「**Bitwarden**」がオススメ！個人利用は無料で利用できます。
 
-It may be safely trusted as proportionate and of good issues, so it be faithfully imparted, but God will not have his work made manifest by cowards. A man is relieved and gay when he has put his heart into his work and done his best; but what he has said or done otherwise, shall give him no peace. It is a deliverance which does not deliver. In the attempt his genius deserts him; no muse befriends; no invention, no hope.
+[https://appfav.net/blog/2020/01/07/%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%af%e3%83%91%e3%82%b9%e3%83%af%e3%83%bc%e3%83%89%e7%ae%a1%e7%90%86%e3%82%bd%e3%83%95%e3%83%88%e3%81%a7%e8%87%aa%e5%8b%95%e5%85%a5%e5%8a%9b%e3%81%8c%e4%be%bf/](https://appfav.net/blog/2020/01/07/%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%af%e3%83%91%e3%82%b9%e3%83%af%e3%83%bc%e3%83%89%e7%ae%a1%e7%90%86%e3%82%bd%e3%83%95%e3%83%88%e3%81%a7%e8%87%aa%e5%8b%95%e5%85%a5%e5%8a%9b%e3%81%8c%e4%be%bf/ "ログインはパスワード管理ソフトで自動入力が便利すぎ！パスワード登録も簡単！個人利用は無料")
 
-Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being. And we are now men, and must accept in the highest mind the same transcendent destiny; and not minors and invalids in a protected corner, not cowards fleeing before a revolution, but guides, redeemers, and benefactors, obeying the Almighty effort, and advancing on Chaos and the Dark.
+#### パスワードの変更はしない
+
+定期的な変更は不要と総務省も2017年6月に変更しています。
+
+[https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/business/staff/01.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/business/staff/01.html " 安全なパスワード管理｜社員・職員全般の情報セキュリティ対策｜企業・組織の対策｜国民のための情報セキュリティサイト")
+
+サービス側から流出した事実がなければ、パスワードを変更する必要はありません。  
+流失していないのに定期的にパスワードを変更しようという通知は無視して良い。  
+といっても、「今設定しているパスワードの桁数では危険な時代」になった場合は変更推奨。
+
+### パスワードの変更は、フィッシング詐欺に合う確率が高まるだけです。
+
+#### 一番の問題はフィッシング詐欺
+
+あなたはフィッシング詐欺を見破れますか？
+
+[https://phishingquiz.withgoogle.com/?hl=ja](https://phishingquiz.withgoogle.com/?hl=ja "Jigsaw | Phishing Quiz")
+
+対策として例えパスワードが盗まれたとしても**２段階認証**を設定していればセキュリティーを高められます。**２段階認証**がないサービスは使わない方が良いでしょう。
+
+#### ※仮想通貨ウォレットを利用する方は、こちらの記事を読んでおくことをオススメします。
+
+Ethereum DAppsの財布は、Portisのような仕組みにすべき理由！
+
+[https://alis.to/masia02/articles/anLy0owzErY0](https://alis.to/masia02/articles/anLy0owzErY0 "Ethereum DAppsの財布は、Portisにすべき理由！")
+
+### ブラウザでパスワードを保存は推奨しない
+
+![](/content/images/password-866981_1920.png)
+
+#### Google Chromeブラウザ
+
+ChromeのGoogleパスワードマネージャーなら最低限セキュリティーは保たれていると思うので、よく使うあまりお金に直結しないWebサービスなら保存しても良いかと思うが、  
+接触を許す共有パソコンで「パスワードを平文で閲覧できる」のは危険なイメージを持ってしまう。Chrome以前の問題だが不正アクセスが心配。  
+パスワード情報が漏洩したので、パスワード変更してくださいと表示が出てさらに心配になる。
+
+#### Apple Safariブラウザ
+
+アップル、Safariの「iCloud」上のユーザーデータ暗号化計画を断念–FBIからの圧力で
+
+[https://japan.cnet.com/article/35148291/](https://japan.cnet.com/article/35148291/ "アップル、「iCloud」上のユーザーデータ暗号化計画を断念--FBIからの圧力で")
+
+暗号化していないところに個人情報を保存してはいけません。
+
+#### ※大事なデータをクラウドに保存する場合は、最低限エンドツーエンド暗号化されたクラウドストレージを利用しよう！分散型がオススメです。
+
+以下のクラウドストレージは無料で利用できます。
+
+* [X Cloud - Internxt(インターエヌエックスティー)](https://appfav.net/webapps/item.php?appId=541)
+* [XOR Drive](https://appfav.net/webapps/item.php?appId=490)
+* [dclouds](https://appfav.net/webapps/item.php?appId=497)
+* [pDrive](https://appfav.net/webapps/item.php?appId=492)
+
+### ログイン情報に利用するメールアドレスは過剰に守ろう
+
+メールアドレスが乗っ取られたら、ログインIDとして設定しているWebサービスやアプリにパスワード忘れ機能を利用して不正ログインされ、パスワードをリセット再設定されてしまいます。
+
+GmailならGoogleアカウントを過剰に守ろう！
+
+* [２段階認証](https://appfav.net/webapps/item.php?appId=832)は必ず設定しましょう。
+* [Google Smart Lock](http://www.appbank.net/2020/01/20/iphone-application/1847364.php)でさらにセキュリティーを高めよう。
+
+### まとめ
+
+安全性の高い管理方法をとることが大切です。以上のことに気をつければ高確率でパスワードを守ることができます。しかし100%ではありません。
+
+パスワードを守る方法は、時代によって変わったり新しい方法が出てくることもありますので、情報収集するよう心がけましょう。
