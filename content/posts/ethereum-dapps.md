@@ -20,8 +20,8 @@ author: masia02.eth
 ・[Authereum](https://appfav.net/webapps/item.php?appId=828)（〇〇〇.auth.ethというサブドメインが貰えます）  
 ・[Bitski](https://appfav.net/webapps/item.php?appId=815)（秘密鍵やパスフレーズの確認やインポート機能が見つからず不安）  
 ・[Squarelink](https://appfav.net/webapps/item.php?appId=830)  
-・[Fortmatic](https://appfav.net/webapps/item.php?appId=814)（電話番号で認証・アセットが管理しづらそう）  
-  
+・[Fortmatic](https://appfav.net/webapps/item.php?appId=814)（電話番号で認証・アセットが管理しづらそう）
+
 **▼OAuthログイン**
 
 ・[Torus](https://appfav.net/webapps/item.php?appId=829)（Google、FacebookなどのOAuthログインは楽！だけどFacebookパスワード漏洩とかあったしな…）  
@@ -37,3 +37,15 @@ author: masia02.eth
 [**Portis Apps**](https://apps.portis.io/)
 
 ### ▼Ether購入はこちら
+
+* [Liquid by Quoine（リキッドバイコイン）](https://px.a8.net/svt/ejp?a8mat=2ZL5EQ+2G4BPM+3UOI+5YZ77)
+* [DMM Bitcoin](https://tr.smaad.net/redirect?zo=823327218&ad=739007590&d=cd7293bcc425c0a039294b890277c9dfe552a02c504c75b749a1cf12595daab7)
+
+## DApps開発者様 対応よろしくお願いいたします！
+
+* [**Web3Modal Example**](https://web3connect.com/)
+* [**Web3Modal/web3modal**](https://github.com/web3connect/web3connect)
+
+[**_masia02 Twitterをフォローする_**](https://twitter.com/masia02)
+
+[**_CipherWeb Line公式アカウントをフォローする_**](https://lin.ee/C11BGoW)
