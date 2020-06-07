@@ -2,7 +2,7 @@
 date: 2020-02-15T07:42:09+09:00
 title: 危ない!?ブロックチェーンゲーム
 author: masia02.eth
-hero_image: "/content/images/i9zmshlaf_20200215_172727_eaa4c910da70ce5c2a601b2c8a0a8801_m.jpg"
+hero_image: "/content/images/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.webp"
 
 ---
 私はブロックチェーンの技術に魅了され、ブロックチェーンアプリやゲームに期待し追いかけ続けている男です。ブロックチェーン自体は危なくないのは知っています。タイトルは釣りですが、ブロックチェーンゲームやアプリのウォレットについて警告します。
