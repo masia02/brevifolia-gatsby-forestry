@@ -27,8 +27,8 @@ fields:
   label: contact
   fields:
   - type: text
-    name: email
-    label: email
+    name: dmail
+    label: dmail
   - type: text
     name: twitter_handle
     label: twitter_handle
