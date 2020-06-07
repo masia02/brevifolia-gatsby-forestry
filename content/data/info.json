@@ -1,10 +1,11 @@
 {
-  "description": "<p>このブログは<a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a>＆<a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a>を使用して作成されました</p>",
+  "description": "<p><a href=\"https://forestry.io/\" title=\"Forestry Link\">林業</a>＆<a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">ギャツビー</a></p>",
   "cta": "<p>はじめに、このサイトを森林にインポートするか、<a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">ここで</a>リポジトリをチェックアウトします。</p>",
   "contact": {
     "email": "masia02",
     "twitter_handle": "masia02",
-    "github_handle": "masia02"
+    "github_handle": "masia02",
+    "dmail": "masia02jp"
   },
   "background_color": "#B1BCBC"
 }
