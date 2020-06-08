@@ -37,17 +37,13 @@ hero_image: "/content/images/password-64047_1920.jpg"
 
 #### 一番の問題はフィッシング詐欺
 
-あなたはフィッシング詐欺を見破れますか？
-
-[https://phishingquiz.withgoogle.com/?hl=ja](https://phishingquiz.withgoogle.com/?hl=ja "Jigsaw | Phishing Quiz")
+[あなたはフィッシング詐欺を見破れますか？](https://phishingquiz.withgoogle.com/?hl=ja)
 
 対策として例えパスワードが盗まれたとしても**２段階認証**を設定していればセキュリティーを高められます。**２段階認証**がないサービスは使わない方が良いでしょう。
 
 #### ※仮想通貨ウォレットを利用する方は、こちらの記事を読んでおくことをオススメします。
 
-Ethereum DAppsの財布は、Portisのような仕組みにすべき理由！
-
-[https://alis.to/masia02/articles/anLy0owzErY0](https://alis.to/masia02/articles/anLy0owzErY0 "Ethereum DAppsの財布は、Portisにすべき理由！")
+[Ethereum DAppsの財布は、Portisのような仕組みにすべき理由！](https://alis.to/masia02/articles/anLy0owzErY0)
 
 ### ブラウザでパスワードを保存は推奨しない
 
