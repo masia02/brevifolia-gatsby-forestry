@@ -7,7 +7,7 @@ author: masia02.eth
 ---
 **コントラクトウォレットを推す理由はこちら**
 
-危ない!?ブロックチェーンゲーム
+[危ない!?ブロックチェーンゲーム](https://www.dapps-play.net/blog/sunflower-sutra)
 
 ## 【コントラクトウォレット】
 
