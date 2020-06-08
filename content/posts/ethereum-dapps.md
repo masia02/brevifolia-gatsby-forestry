@@ -16,16 +16,16 @@ author: masia02.eth
 
 ### ▼メールとパスワードでログイン
 
-・[Portis](https://appfav.net/webapps/item.php?appId=20)  
-・[Authereum](https://appfav.net/webapps/item.php?appId=828)（〇〇〇.auth.ethというサブドメインが貰えます）  
-・[Bitski](https://appfav.net/webapps/item.php?appId=815)（秘密鍵やパスフレーズの確認やインポート機能が見つからず不安）  
-・[Squarelink](https://appfav.net/webapps/item.php?appId=830)  
-・[Fortmatic](https://appfav.net/webapps/item.php?appId=814)（電話番号で認証・アセットが管理しづらそう）
+* [Portis](https://appfav.net/webapps/item.php?appId=20)
+* [Authereum](https://appfav.net/webapps/item.php?appId=828)（〇〇〇.auth.ethというサブドメインが貰えます）
+* [Bitski](https://appfav.net/webapps/item.php?appId=815)（秘密鍵やパスフレーズの確認やインポート機能が見つからず不安）
+* [Squarelink](https://appfav.net/webapps/item.php?appId=830)
+* [Fortmatic](https://appfav.net/webapps/item.php?appId=814)（電話番号で認証・アセットが管理しづらそう）
 
 **▼OAuthログイン**
 
-・[Torus](https://appfav.net/webapps/item.php?appId=829)（Google、FacebookなどのOAuthログインは楽！だけどFacebookパスワード漏洩とかあったしな…）  
-・[Arkane](https://appfav.net/webapps/item.php?appId=831)（ETH他BTC、LTC、Tronなど9種類のブロックチェーンをサポート）
+* [Torus](https://appfav.net/webapps/item.php?appId=829)（Google、FacebookなどのOAuthログインは楽！だけどFacebookパスワード漏洩とかあったしな…）
+* [Arkane](https://appfav.net/webapps/item.php?appId=831)（ETH他BTC、LTC、Tronなど9種類のブロックチェーンをサポート）
 
 **※2段階認証は必ず設定しなさい！**[Twoblocks](https://appfav.net/webapps/item.php?appId=832)  
 ※[Bitwarden](https://appfav.net/webapps/item.php?appId=55)でパスワード管理 推奨
