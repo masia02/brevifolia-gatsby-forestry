@@ -1,7 +1,7 @@
 ---
 title: ポストApp Store/Google Play、モバイルアプリの次に来るもの Appfav
 date: 2019-08-27T07:37:31+09:00
-hero_image: "../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+hero_image: "/content/images/rectangle_large_type_2_89f7518305b150a0330ad667642b8322.webp"
 author: masia02.eth
 
 ---
